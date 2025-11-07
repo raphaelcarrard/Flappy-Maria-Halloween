@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Games\\Flappy Maria Halloween\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B5A0C1-1277-30F1-0929-53D446560584}|Assembly-CSharp.csproj|e:\\my games\\flappy maria halloween\\assets\\scripts\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B5A0C1-1277-30F1-0929-53D446560584}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "E:\\My Games\\Flappy Maria Halloween\\Assets\\Scripts\\MusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicController.cs",
+              "ToolTip": "E:\\My Games\\Flappy Maria Halloween\\Assets\\Scripts\\MusicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:03:05.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
